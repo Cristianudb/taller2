@@ -1,0 +1,46 @@
+[
+    {
+      "genre": "Rock",
+      "albums": [
+        {
+          "albumId": "album",
+          "title": "As Daylight Dies",
+          "artist": "Killswitch Engage",
+          "tracks": [
+            {
+              "trackId": "track1",
+              "title": "This Fire",
+              "url": "https://youtu.be/DMdqsS0a9tY",
+              "artwork": "https://images.app.goo.gl/kcQvwbX5e3kJGUyf9"
+            },
+            {
+              "trackId": "track2",
+              "title": "My Curse",
+              "url": "https://www.youtube.com/watch?v=NUDls2PgDUY",
+              "artwork": "https://images.app.goo.gl/kcQvwbX5e3kJGUyf9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "genre": "Pop",
+      "albums": [
+        {
+          "albumId": "album2",
+          "title": "Dangerous Woman",
+          "artist": "Ariana Grande",
+          "artwork": "https://images.app.goo.gl/rJPc7bAHbEJmmnw8A",
+          "tracks": [
+            {
+              "trackId": "track3",
+              "title": "Side to Side",
+              "url": "https://youtu.be/h0JrKnBE3nI",
+              "artwork": "https://images.app.goo.gl/rJPc7bAHbEJmmnw8A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
